@@ -1,126 +1,154 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bo/comteco.com.bo.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+#EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KVc1hqI.png" group-title="News",Televisa News Mexico (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Undefined",Azteca Uno (XHJK-TDT) (480p) [Not 24/7]
+http://190.122.96.187:8888/http/002
 
-#EXTM3U
-
-#EXTINF:-1,Azteca 7 HD 1080 México
+#EXTINF:-1,"Azteca 7 HD 1080 México"
 http://ift.tt/1R0X5R5?
 
-#EXTINF:-1,Azteca 7 México
-http://ift.tt/1w2rku9?
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
+#EXTINF:-1 tvg-id="TelevisaChihuahua.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CAuAu0Z.png" group-title="Undefined",Televisa Chihuahua (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4vEFJxf.png" group-title="Undefined",Televisa Ciudad Juarez (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
+#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/35fsRTS.jpg" group-title="Undefined",Televisa Del Golfo
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ08tNTPiBn44c975S81ftg/live
+#EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyZCypH.png" group-title="Undefined",Televisa Estado (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp4B0BM.jpg" group-title="Undefined",Televisa Guadalajara (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lOAnjFs.png" group-title="Undefined",Televisa Guerrero (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
+#EXTINF:-1 tvg-id="TelevisaLaguna.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L4GDHQm.png" group-title="Undefined",Televisa Laguna (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
+#EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="Undefined",Televisa Mexicali (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ierlYM1.jpg" group-title="Undefined",Televisa Monterrey (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
 
-#EXTINF:-1,Azteca 7 Monterrey México
-http://ift.tt/1RIVYqJ
+#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Undefined",Televisa Puebla
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC-HNztluSQSffhIWJTL-LUw/live
+#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/47c1AIS.png" group-title="Undefined",Televisa Queretaro
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9QNz6VS3gGz55dzxAQtgtA/live
+#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="Undefined",Televisa Sinaloa
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ/live
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/solostanduptv/picture?width=300&height=300" group-title="Comedy",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
 
-#EXTINF:-1,Cadena 3 México
-http://ift.tt/1wEcXwh?
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="Undefined",ADN 40 (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
 
-#EXTINF:-1,Canal 2 Los Mochis México
-http://ift.tt/1Gn3VNR
-
-#EXTINF:-1,Canal 2 Obregon México
-http://ift.tt/1R0X7sf
-
-#EXTINF:-1,Canal 2 XEWTV HD 1080 México
-http://ift.tt/1Gn3XFj?
-
-#EXTINF:-1,Canal 2 XEWTV México
-http://ift.tt/1w2rly4?
-
-#EXTINF:-1,Canal 2 XEWTV México
-http://ift.tt/1Gn3XFn
-
-#EXTINF:-1,Canal 4 Foro TV México
-http://ift.tt/1tQjqJT?
-
-#EXTINF:-1,Canal 4 Foro TV México
-http://ift.tt/1RIVXTE
-
-#EXTINF:-1,Canal 4 Mérida México
-rtmp://159.16.243.10/live/canal4/canal4
-
-#EXTINF:-1,Canal 5 HD 1080 México
-http://ift.tt/1Gn3VNV?
-
-#EXTINF:-1,Canal 5 México
-http://ift.tt/1w2rnpB?
-
-#EXTINF:-1,Canal 6 Guadalajara Mexico
-rtmp://200.52.193.57:1935/live/unique/live_2650
-
-#EXTINF:-1,Canal 6 Guadalajara México (OFFLINE)
-rtmp://200.52.193.57:1935/live/unique/live_2650
-
-#EXTINF:-1,CanaldelasEstrellas Mex.
-http://ift.tt/1RIVXTG
-
-#EXTINF:-1,Capital 21 México
-http://ift.tt/1RIVYqL
-
-#EXTINF:-1,EDUSAT Canal 21 TeleMexico
-http://ift.tt/1Gn3W4d
-
-#EXTINF:-1,Efekto TV México
-http://ift.tt/1F9T6MJ
-
-#EXTINF:-1,Fox Mexico
-http://ift.tt/1w2rlyc?
-
-#EXTINF:-1,Fox Mexico HD 1080
-http://ift.tt/1R0X5Rb?
-
-#EXTINF:-1,Mexico Travel Channel
-http://ift.tt/1RIW29P
-
-#EXTINF:-1,-Mexiquense
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-
-#EXTINF:-1,MTV Mexico
-http://ift.tt/1w2rkub?
-
-#EXTINF:-1,MULTIMEDIOS TV
-http://ift.tt/1C58jzy
-
-#EXTINF:-1,Multimedios TV SD 4:3 México
-http://ift.tt/1RIVYH5
-
-#EXTINF:-1,Nuestra Visión Canal 5 México
-rtmp://159.16.243.10/live/canal5/canal5
-
-#EXTINF:-1,Once TV Internacional México
-http://ift.tt/1F9T5s9
-
-#EXTINF:-1,Radio y Televisión Mexiquense
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-
-#EXTINF:-1,SIPSA TV Cancún México
-http://ift.tt/1K7xqoX
-
-#EXTINF:-1,Telemar Campeche México
-http://ift.tt/1RIVYH9
-
-#EXTINF:-1,THITHD
-http://ift.tt/1ImJaD4
-
-#EXTINF:-1,TV MAS México
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1,TV Mexiquense
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-
-#EXTINF:-1,TVMas Mexico
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1,UNO TV HD 720 México
-http://ift.tt/1Gn3XFw
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Alcarria TV (576p) [Not 24/7]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AmericaSports/picture?width=320&height=320" group-title="Sports",América Sports (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 
-#EXTINF:-1,Nick HD SD
-http://ift.tt/1R0X5Az
 
-#EXTINF:-1,Nick HD 720p
-http://ift.tt/1Gn3XoT
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Undefined",Canal 10 Cancún (720p) [Not 24/7]
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="Undefined",Canal 12 (XETW-TDT) (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Canal 22 (XEIMT-TDT) [Geo-blocked]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal22/
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RN5wbXm.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Undefined",Canal 44 Chihuahua (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalcatorcemx/picture?width=200&height=200" group-title="Undefined",Canal Catorce (720p)
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Undefined",Capital 21 (720p) [Not 24/7]
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-country="HISPAM" tvg-language="English" tvg-logo="https://comteco.com.bo/img/upload/canales/Y1NVpq.png" group-title="Undefined",Cartoon Network Latin America
+http://209.91.213.10:8088/play/a00k
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/cc/claro_sports_mx.png" group-title="Sports",Claro Sports (480p)
+http://45.179.140.242:8000/play/a0ht
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-country="LATAM;US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/400px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",Conecta TV (720p)
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",CorTV (800p)
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 tvg-id="DemandAfricaMexico.us" tvg-country="MX" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title="Entertainment",Demand Africa (Mexico) (1080p)
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/enlacetv/picture?width=320&height=320" group-title="Religious",EnlaceTV (720p) [Not 24/7]
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Euronews en Español (720p)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",ForoTV (720p) [Geo-blocked]
+https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
 
-#EXTINF:-1,Telehit HD SD
-http://ift.tt/1R0X5AD
+#EXTINF:-1 tvg-id="ImagenMulticast.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KDZ50eC.jpg" group-title="Undefined",Imagen Multicast (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
+#EXTINF:-1 tvg-id="ImagenRadio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SINYy29.png" group-title="Undefined",Imagen Radio (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Undefined",Jalisco TV (720p) [Geo-blocked]
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="LaOctava.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qQjenrC.png" group-title="Undefined",La Octava TV (1080p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8
+#EXTINF:-1 tvg-id="MariaVisionMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bLSCeSB.png" group-title="Religious",María Visión Mexico (360p) [Not 24/7]
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MexicoTravelChannel.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TnHaCDB.png" group-title="Undefined",México Travel Channel (480p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Undefined",Mexiquense TV (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="Milenio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Undefined",Milenio Televisión (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religious",Monte Maria (720p)
+https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0bznKvP.jpg" group-title="Undefined",Multimedios Guadalajara (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Zj8mOEo.png" group-title="Undefined",Multimedios Laguna (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7OHMuRl.png" group-title="Undefined",Multimedios Monterrey (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Multipremier (480p)
+http://201.168.205.12:8000/play/a0cp/index.m3u8
 
-#EXTINF:-1,Telehit HD 720p
-http://ift.tt/1Gn3VNI
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="Undefined",Noticias Canal 10 (360p) [Not 24/7]
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OnceInternacional.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.lyngsat.com/logo/tv/oo/once-mx.png" group-title="Undefined",Once Internacional
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OnceMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="Undefined",Once Mexico (720p) [Not 24/7]
+http://live.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="SoniderosTV.us" tvg-country="MX;US" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/www.sonideros.tv/picture?width=320&height=320" group-title="Music",Sonideros TV (360p) [Not 24/7]
+https://tv2.fastcast4u.com:3728/live/soniderostvlive.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="Undefined",TeleFórmula
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Undefined",Telemax (XEWH-TDT) (720p)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/teleritmo-logo.png" group-title="Undefined",Teleritmo (720p) [Geo-blocked]
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:-1 tvg-id="TVLobo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XZ8GmZW.png" group-title="Undefined",TV Lobo (720p) [Not 24/7]
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="ES;HISPAM" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Undefined",TVMÁS (XHGV-TDT) (360p) [Not 24/7]
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
